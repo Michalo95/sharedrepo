@@ -1,8 +1,12 @@
 standing in line to see the show tonight
 how are we doing?
-Testing megre conflict if I add text in the middle
+Testing merge conflict if I add text in the middle
 here as well
 oh no
+
+whoa
+whoa
+whoa
 I am good, how are you?
 hello hello hi hi hi
 bored in the house
