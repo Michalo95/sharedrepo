@@ -1,3 +1,7 @@
 standing in line to see the show tonight
 how are we doing?
+<<<<<<< Updated upstream
 I am good, how are you?
+=======
+another test
+>>>>>>> Stashed changes
