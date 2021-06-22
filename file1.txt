@@ -1,9 +1,12 @@
 standing in line to see the show tonight
 how are we doing?
 Testing merge conflict if I add text in the middle
-here as well
+here as well and so on
 oh no
 one more time
+time
+time
+adding more time
 time
 time
 time
@@ -20,3 +23,4 @@ hello hello hi hi hi
 bored in the house
 still bored in the house
 bored in the house part 3
+this is entertaining
